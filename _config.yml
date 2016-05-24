@@ -1,0 +1,22 @@
+
+# Site settings
+
+title: Tutorial Title
+
+email: Creator.email@bristol.ac.uk
+
+author_name: Author Name
+author_website: author-website.github.io
+
+description: > # this means to ignore newlines until "baseurl:"
+    A tutorial written for the Digimakers project that teaches people how to
+    [do something useful and interesting]
+
+baseurl: "/tutorial-template" # the subpath of your site, e.g. /blog
+
+twitter_username: digi_makers
+
+github_username:  MVSE-Outreach
+
+# Build settings
+markdown: kramdown

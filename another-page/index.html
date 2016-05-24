@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>Another Page</h1>
+
+<p class="section">
+Here's another webpage in the sample site. It shows how you can have some
+nice fake Arduino code. Cool eh? Notice how the source code file is
+not actually included in the website code, it sits in another directory.
+This makes it super easy to change.
+</p>
+
+<div style="text-align:left; max-width:735px;">
+<img src="{{site.baseurl}}/images/ide-top.png"/>
+{% highlight C linenos %}
+
+{% include_relative example-code.ino %}
+
+{% endhighlight %}
+<img src="{{site.baseurl}}/images/ide-bottom.png"/>
+</div><br/>
