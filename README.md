@@ -1,4 +1,4 @@
-Digimakers Web-based Template Tutorial
+Digimakers Web-based Tutorial Template
 ================================
 
 This is the repository for the template of a web-based Digimakers tutorial. If your workshop doesis not able to be done using the (simplified) LaTeX template (see LaTeX-Worksheet-Templates repository) for example, because your workshop includes video, then please use this template to create a website based tutorial. 
